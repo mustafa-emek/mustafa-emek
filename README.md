@@ -1,6 +1,6 @@
 ### Hi there, This is Mustafa 👋
 
-I am interested in cloud technology and processes of developing, testing and releasing software, allowing for the continuous delivery(CI/CD) of software and software updates.So i prefer AWS&DevOps tools. I started my new career and my dream with boothcamp and currently go with On Yazılım. In addition, I learn new IT skills here and also create my new projects. I look forward to producing social projects that are very useful for good people.
+I am interested in cloud technology and processes of developing, testing and releasing software, allowing for the continuous delivery(CI/CD) of software and software updates.So I prefer AWS&DevOps tools. I started my new career and my dream with boothcamp and currently go with On Yazılım. In addition, I learn new IT skills here and also create my new projects. I look forward to producing social projects that are very useful for good people.
 
 You can find some experimental and forked projects on my repos, feel free to contribute or use them. Knowledge should spread!!! 💪
 [![GitHub Follow Badge](https://img.shields.io/github/followers/mustafa-emek?label=follow&style=social)](https://github.com/mustafa-emek)
